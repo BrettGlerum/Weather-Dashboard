@@ -11,6 +11,7 @@ This project is a functional weather dashboard that uses server side APIs to dis
 The title of this application is called "Weather Dashboard". Under that is a header and box where the user searches for a city. They then click the icon next to it to search the forecast of the city. The city then pops up with accurate information on the date, temperature, humididty, wind speed, and UV index as of the time the city is searched. Under all of that, there are fice boxes that determine the forecast for the next five days, with an icon of the weather expected; and the termperature and humidity as well. The city is also placed into a history, where you can see all of the cities you searched until the "Clear History" button is clicked.
 
 Link to Deployed Application: https://brettglerum.github.io/Weather-Dashboard/ 
+
 Screenshot of Deployed Application: ![screenshot](https://github.com/BrettGlerum/Weather-Dashboard/blob/main/assets/images/Screenshot%20(11).png)
 ## License
 
