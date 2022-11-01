@@ -1,7 +1,5 @@
 # Weather-Dashboard
 
-## Horiseon-Webpage
-
 # Description
 
 This project is a functional weather dashboard that uses server side APIs to display an accurate weather forecast. When the user inputs their city, the website displays the current weather, temperature, humidity, wind speed, and the UV index; as well as the forecast for the next five days as well. My motivation behind this application is to create an easy and user friendly weather forecast, so that anyone can know what to expect for the next couple days in terms of local weather. This way I can know how to dress for work every day, since I mainly work outside. The code for this is done with one HTML document and one JavaScript document. The HTML is pretty straight forward, with a couple divs and header; and also links to all of the APIs used. The Javascript is also pretty straight forward, but a little more complicated than the HTML. First we establish the API we are going to be using, OpenWeatherMap, and then define all our variables. We then use a couple GET calls to get the information from our API, and some functions to parse all of the information out. We then grab all our items from local storage if there is any, and make sure that gets parsed too. We then create all items that aren't mentioned in the HTML like some of the buttons, and finish by appending any and all parsed information.
